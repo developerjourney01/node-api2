@@ -1,1 +1,8 @@
-GET http://localhost:8083
+GET http://localhost:8083/get
+
+# POST http://localhost:8083/create
+# content-type: application/json
+
+# {
+#     "number" : 1
+# }

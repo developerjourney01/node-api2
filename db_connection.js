@@ -5,7 +5,7 @@ exports.connection  =  function(){
         host: "35.240.183.120",
         user: "test",
         password: "123456789",
-        database: 'test'
+        database: "test"
     });
 
     con.connect(function(err) {
